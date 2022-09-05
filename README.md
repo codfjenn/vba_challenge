@@ -9,8 +9,7 @@ Module 2 Challenge
 ## Results
 ### The refactor code will update my workbook with data from 2017 and 2018 in 0.0703125 seconds. Below are screenshots for running each year. 
 
-![VBA Challenge 2017]
-
+![VBA Challenge 2017](https://github.com/codfjenn/vba_challenge/blob/main/VBA_Challenge_2017.png)
 
 
 
