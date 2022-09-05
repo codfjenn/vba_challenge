@@ -11,10 +11,16 @@ Module 2 Challenge
 
 ![VBA Challenge 2017](https://github.com/codfjenn/vba_challenge/blob/main/VBA_Challenge_2017.png)
 
+![VBA Challenge 2018] https://github.com/codfjenn/vba_challenge/blob/main/VBA_Challenge_2018.png 
+
+When comparing return percentges for 2017 abd 2018, all of the stocks were significantly more profitable in 2017. Only one stock had a negative return in 2017 and four stocks had over a 100% return. In 2018, only the tickers of ENPH and Run did not have a negative return. Below are tables for both years. 
+
+![VBA Challenge 2017 Table] 
+
+![VBA Challenge 2018 Table] 
 
 
-
-##Summary
+## Summary
 ### What are the advantages or disadvantages of refactoring code?
 
 
